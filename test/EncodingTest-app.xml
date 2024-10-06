@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<application xmlns="http://ns.adobe.com/air/application/32.0">
+    <id>com.example.EncodingTest</id>
+    <versionNumber>1.0</versionNumber>
+    <filename>EncodingTest</filename>
+    <initialWindow>
+        <content>EncodingTest.swf</content>
+        <visible>true</visible>
+    </initialWindow>
+</application>
